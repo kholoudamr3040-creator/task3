@@ -51,7 +51,7 @@ nav a:hover {
 }
 
 #home {
-  background-image:url(4408815.jpg),linear-gradient(rgba(15, 20, 40, 0.45), rgba(15, 20, 40, 0.45)), url("hero.jpg");
+  background-image: linear-gradient(rgba(15, 20, 40, 0.45), rgba(15, 20, 40, 0.45)), url("4408815.jpg");
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -162,8 +162,7 @@ nav a:hover {
   border-radius: 20px;
 }
 
-footer 
-.logo {
+footer {
   background-color: #45190f;
   color: #fff;
   text-align: center;
@@ -177,4 +176,3 @@ footer h3 {
 footer h3 span {
   color: #f6695c;
 }
-
